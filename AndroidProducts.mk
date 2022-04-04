@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/linneage_j2corelte.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/lineage_j2corelte.mk
